@@ -4,12 +4,11 @@
 
 This website in many ways is like a more personal Resume. When people click on this site they will learn more about me as a person. On this site there is an About Me section, There is a work section where you can see my past projects, there is my official resume, and Finally, at the bottom, there is a way to contact me if needed. (not real contact info) 
 
-#Installation 
-Open Google and put the URL for the website in it.
+Installation - Open Google and put the URL for the website in it.
 
-Usage To use this website effectively, you can review the notes in each section. You can utilize the nav bar and click on any of those sections and it will take you to the corresponding section on the site. You can click on the images in the work section to see my past works and it will take you to the websites I have worked on. (I have not worked on any websites yet so I placed two there as placeholders. I did not create any of those websites).
+Usage - To use this website effectively, you can review the notes in each section. You can utilize the nav bar and click on any of those sections and it will take you to the corresponding section on the site. You can click on the images in the work section to see my past works and it will take you to the websites I have worked on. (I have not worked on any websites yet so I placed two there as placeholders. I did not create any of those websites).
 
-Visual Studio Code "https://1drv.ms/i/s!AjsvYdlJ0aVdhQfv_JQxPpbgFLE3?e=IkCUWe
+Visual Studio Code - "https://1drv.ms/i/s!AjsvYdlJ0aVdhQfv_JQxPpbgFLE3?e=IkCUWe
 
 Credits KU Bootcamp, Module 2,
 
